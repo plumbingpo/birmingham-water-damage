@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://birminghamrestorationco.com/sitemap.xml
